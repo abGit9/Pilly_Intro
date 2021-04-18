@@ -85,7 +85,7 @@ public class Greeting extends AppCompatActivity {
     }
 
     private void setUpButtons() {
-        /*No Main Activity Here
+        /*No Main Activity Here,Just Intro
         dismiss.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
