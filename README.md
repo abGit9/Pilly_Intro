@@ -22,7 +22,7 @@
 <ul>
     <li><b>Easy Medication Search:</b> Begin by entering a medication name, and Pilly instantly provides a list of suggestions based on your input. <br></li>
     <br>
-    <div align = "center"> <img align ="center" alt="Medication Search" height="300px" src="images/search.jpg" /></img></div>
+    <div align = "center"> <img align ="center" alt="Medication Search" height="300px" src="images/main.jpg" /></img>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img align ="center" alt="Medication Search" height="300px" src="images/search.jpg" /></img>      </div>
     <br>
     <li><b>Simplified Data Entry:</b> Select a medication and smoothly navigate through a series of dialogs to input essential details. Our aim is to make the process focused and hassle-free.</li>
     <br>
@@ -56,12 +56,12 @@
 <p>This Github repo is dedicated to the app's  initial onboarding tutorial. It consists of a series of animations that introduces the user to the app's core functionality and offers a glimpse into the UI's accessible design and its lively, animated presentation.</p>
 
 <p> A video demonstration is available below, showcasing Pilly in action. Watch the intro running on a mobile device to get a feel for the application's flow and user engagement.</p>
-
-https://user-images.githubusercontent.com/50727486/167315126-dbe32c6f-a588-4772-808c-89d17e728c98.mp4
+<div align = "center" ><video src = "https://user-images.githubusercontent.com/50727486/167315126-dbe32c6f-a588-4772-808c-89d17e728c98.mp4">
+</video></div>
 
 <h2>Dive Deeper</h2>
 
-<p>For a nuanced dive into the technical underpinnings of Pilly's standout features, crafted through Java programming, take a look at my <a href="https://abhat.io/app/software/mobile/mobile.html">website</a>. Here, you'll discover the meticulous detail and programming strategies employed in the app's development, including these features:</p>
+<p>For a nuanced dive into the technical underpinnings of Pilly's standout features, crafted through Java programming, take a look at my <a href="https://abhat.io/app/software/mobile/mobile.html">website</a>. Here, you'll discover the meticulous detail and programming strategies employed in the app's development, explained through the following  features:</p>
 <ul>
     <li><b>The Dynamic Clock (AM/PM Schedule Toggler)</b></li>
     <li><b>Medication Reminders</b></li>
