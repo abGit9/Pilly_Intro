@@ -11,8 +11,8 @@
 
 <h2>Languages</h2>
 <ul>
-    <li><b>Java</li>
-    <li><b>XML</li>    
+    <li><b>Java</b></li>
+    <li><b>XML</b></li>    
 </ul>
 
 <h2>About the App</h2>
