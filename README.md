@@ -1,3 +1,6 @@
+<h4>Welcome to <b>Pilly</b>, your Personal Medication Reminder App...</h4>
+<br>
+
 <div align ="center"><img align ="center" alt="Pilly Banner" height="250px" src="https://user-images.githubusercontent.com/50727486/167317148-b8d799b0-f62c-4656-a55d-b38c77f271a5.png" /></div>
 
 <div align = "center"> <a href='https://play.google.com/store/apps/details?id=com.panacea.pilly&hl=en_US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height = "70"/></a></div>   
@@ -6,7 +9,7 @@
 <br>
 <br>
   
-<p>Welcome to <b>Pilly</b>, your Personal Medication Reminder App...</h4>
+
 <h2>Overview</h2>
 <p>In today's bustling world, staying on top of medication schedules is a common struggle, especially for those managing multiple prescriptions. Pilly is here to transform this chore into a seamless habit. Developed with passion and precision, Pilly serves as a reliable companion, ensuring you never miss a dose again. This mobile application embodies a blend of vibrant animations and dynamic layouts to offer an engaging user experience.</p>
 
