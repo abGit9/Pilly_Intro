@@ -1,4 +1,4 @@
-<p>Welcome to <b>Pilly</b>, your Personal Medication Reminder App...</p>
+<p>Welcome to <b>Pilly</b>, your <b>Personal Medication Reminder App</b>...</p>
 <br>
 
 <div align ="center"><img align ="center" alt="Pilly Banner" height="250px" src="https://user-images.githubusercontent.com/50727486/167317148-b8d799b0-f62c-4656-a55d-b38c77f271a5.png" /></div>
