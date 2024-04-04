@@ -10,7 +10,7 @@
   
 
 <h2>Overview</h2>
-<p>In today's bustling world, staying on top of medication schedules is a common struggle, especially for those managing multiple prescriptions. Pilly is here to transform this chore into a seamless habit. Developed with passion and precision, Pilly serves as a reliable companion, ensuring you never miss a dose again. This mobile application embodies a blend of vibrant animations and dynamic layouts to offer an engaging user experience.</p>
+<p>For many of us, staying on top of our medication schedules is a challenge,  especially for those managing multiple prescriptions. Pilly is here to transform this chore into a seamless habit. Developed with passion and precision, Pilly serves as a reliable companion, ensuring you never miss a dose again. This mobile application embodies a blend of vibrant animations and dynamic layouts to offer an engaging user experience. </p>
 
 <h2>Languages</h2>
 <ul>
